@@ -1,5 +1,7 @@
 .body{
     background-color: #ECECEC;
+    background-image: url("./20545860.jpg");
+    background-repeat: no-repeat;
 }
 .header{
     display: flex;
